@@ -1,1 +1,0 @@
-"C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\MSBuild.exe" "C:\Users\Admin\Desktop\Dreamaker-Mod\src\Dreamaker-Mod.sln" /p:Configuration=Release /p:Platform=x64 /t:Build /v:minimal
